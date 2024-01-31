@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909377354042",
+    "project_id": "notchparking",
+    "storage_bucket": "notchparking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909377354042:android:5c4e9812823eb3dfe53803",
+        "android_client_info": {
+          "package_name": "com.example.notch_parking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJOWxvnLa2gH6sOx6RtpKBNmbEyZ9rWRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
